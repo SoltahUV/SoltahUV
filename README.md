@@ -1,6 +1,6 @@
 # About
 ```
-I'm Akairoshi - C# and .NET developer
+I love salad with cucumbers and tomatoes
 ```
 
 
